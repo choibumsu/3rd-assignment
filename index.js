@@ -1,6 +1,6 @@
-var ghpages = require('gh-pages');
+/* var ghpages = require('gh-pages');
  
-ghpages.publish('./', callback);
+ghpages.publish('./', callback); */
 
 window.onload = async () => {
 	bodyStyle();
